@@ -13,6 +13,13 @@ The strategy was originally developed by Charles Le Beau and popularized by Dr. 
 ## Data Visualisation
 The final product is an exact copy of the Chandelier Exit indicator that also converts normal Candletick data into Heiken Aishi candlestick data, with ZLSMA indicator inclided, all visualised through Candlestick charts through plotly.graph_objects library. 
 
+![Full Graph Picture](https://github.com/NJiHin/TA_Chandelier/blob/main/Graph%20pic.png)
+*Full Graph picture*
+
+![Zoomed Graph Picture](https://github.com/NJiHin/TA_Chandelier/blob/main/Zoomed%20in%20graph%20pic.png)
+*Zoomed in Graph picture*
+
+
 ## Live Data
 
 Implementation of live data from Unicorn Binance Websocket (https://pypi.org/project/unicorn-binance-websocket-api/) and fed into SQL Database. 
